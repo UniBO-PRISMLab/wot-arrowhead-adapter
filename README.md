@@ -103,4 +103,3 @@ To connect the adapter with Modron, it is necessary to create a .env file in /sr
 MODRON_PASSWORD= <MODRON PASSWORD>
 MODRON_USER= <MODRON USER>
 ```
-{"mode":"full","isActive":false}
